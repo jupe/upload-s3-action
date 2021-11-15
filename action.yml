@@ -16,7 +16,7 @@ inputs:
     required: true
   aws_region:
     description: 'aws region name'
-    required: false
+    required: true
   source_dir:
     required: true
     description: 'directory to upload'
